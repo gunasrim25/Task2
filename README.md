@@ -1,4 +1,4 @@
-# Data Analyst Internship - Task 2
+# Data Visualization
 
 ## Task
 Create visualizations and storytelling (Power BI style) using the Superstore dataset.
@@ -8,3 +8,4 @@ Create visualizations and storytelling (Power BI style) using the Superstore dat
 - `PowerBI_style_Report_Superstore.pdf`-PDF report with dashboard-style visuals and insights
 
 Prepared by: Gunasri M
+Data Analyst Internship - Task 2

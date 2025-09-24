@@ -1,4 +1,4 @@
-# Data Visualization
+# Task 2: Data Visualization
 
 ## Task
 Create visualizations and storytelling (Power BI style) using the Superstore dataset.
